@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sweety/Sendbird-Flutter/build/sqflite/intermediates/res/merged/release/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "/Users/sweety/.gradle/caches/transforms-2/files-2.1/b9d9689b56e4d571f4e56dfa7e928ff2/core-1.6.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sweety/Sendbird-Flutter/build/sqflite/intermediates/incremental/mergeReleaseResources/merged.dir/values-uz/values-uz.xml",
+            "map": [
+                {
+                    "source": "/Users/sweety/.gradle/caches/transforms-2/files-2.1/b9d9689b56e4d571f4e56dfa7e928ff2/core-1.6.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
